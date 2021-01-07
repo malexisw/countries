@@ -1,4 +1,4 @@
-# country
+# countries
 
 Project using the Rest Countries API with the framework Vue.js
 
